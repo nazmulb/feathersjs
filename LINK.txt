@@ -1,1 +1,10 @@
 https://docs.feathersjs.com/guides/
+https://github.com/feathersjs/awesome-feathersjs
+
+https://www.youtube.com/playlist?list=PLwSdIiqnDlf_lb5y1liQK2OW5daXYgKOe
+
+https://github.com/wdmtech/feathers-vuex-todomvc
+https://github.com/feathersjs-ecosystem/feathers-chat-vuex-0.7
+https://github.com/feathersjs-ecosystem/feathers-mongodb
+
+https://www.youtube.com/watch?v=NJB1B59ZO5w
