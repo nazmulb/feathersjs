@@ -1,0 +1,19 @@
+{
+  "name": "feathersjs",
+  "version": "1.0.0",
+  "description": "A framework for real-time applications and REST APIs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmulb/feathersjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazmulb/feathersjs/issues"
+  },
+  "homepage": "https://github.com/nazmulb/feathersjs#readme"
+}
