@@ -6,5 +6,8 @@ https://www.youtube.com/playlist?list=PLwSdIiqnDlf_lb5y1liQK2OW5daXYgKOe
 https://github.com/wdmtech/feathers-vuex-todomvc
 https://github.com/feathersjs-ecosystem/feathers-chat-vuex-0.7
 https://github.com/feathersjs-ecosystem/feathers-mongodb
+https://medium.com/@salah.saleh/boilerplate-mircoservices-app-using-feathersjs-vuejs-mongodb-and-docker-f76aa225aafa
+https://github.com/salah-saleh/feathers-vue-docker
+https://github.com/codingfriend1/Feathers-Vue
 
 https://www.youtube.com/watch?v=NJB1B59ZO5w

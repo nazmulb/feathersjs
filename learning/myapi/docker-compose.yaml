@@ -1,0 +1,24 @@
+version: '3'
+volumes:
+  db:
+networks:
+  myapp:
+    driver:
+      bridge
+services:
+  api:
+    build: .
+    volumes:
+      - ./:/api
+    ports:
+      - "3030:3030"
+    networks:
+      - myapp
+  db:
+    image: mongo:latest
+    volumes:
+      - "db:/data/db"
+    ports:
+      - 27017:27017
+    networks:
+      - myapp
