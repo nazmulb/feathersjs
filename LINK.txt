@@ -7,7 +7,6 @@ https://vuex.feathersjs.com/api-overview.html#features
 
 https://github.com/salah-saleh/feathers-vue-docker
 https://blog.feathersjs.com/vue-authentication-with-feathersjs-3b1bdc6f5898
-https://vuejsexamples.com/integrate-the-feathers-client-into-vuex/
 
 https://www.youtube.com/watch?v=NJB1B59ZO5w
 https://www.youtube.com/watch?v=DGPfCT5dDQE
