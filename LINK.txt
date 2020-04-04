@@ -4,6 +4,7 @@ https://github.com/feathersjs/awesome-feathersjs
 https://docs.feathersjs.com/api/client.html#feathers-client
 https://docs.feathersjs.com/api/authentication/client.html#client
 https://vuex.feathersjs.com/api-overview.html#features
+https://vue-composition-api-rfc.netlify.com/#summary
 
 https://github.com/salah-saleh/feathers-vue-docker
 https://blog.feathersjs.com/vue-authentication-with-feathersjs-3b1bdc6f5898
