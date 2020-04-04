@@ -1,13 +1,14 @@
 https://docs.feathersjs.com/guides/
 https://github.com/feathersjs/awesome-feathersjs
 
-https://www.youtube.com/playlist?list=PLwSdIiqnDlf_lb5y1liQK2OW5daXYgKOe
+https://docs.feathersjs.com/api/client.html#feathers-client
+https://docs.feathersjs.com/api/authentication/client.html#client
+https://vuex.feathersjs.com/api-overview.html#features
 
-https://github.com/wdmtech/feathers-vuex-todomvc
-https://github.com/feathersjs-ecosystem/feathers-chat-vuex-0.7
-https://github.com/feathersjs-ecosystem/feathers-mongodb
-https://medium.com/@salah.saleh/boilerplate-mircoservices-app-using-feathersjs-vuejs-mongodb-and-docker-f76aa225aafa
 https://github.com/salah-saleh/feathers-vue-docker
-https://github.com/codingfriend1/Feathers-Vue
+https://blog.feathersjs.com/vue-authentication-with-feathersjs-3b1bdc6f5898
+https://vuejsexamples.com/integrate-the-feathers-client-into-vuex/
 
 https://www.youtube.com/watch?v=NJB1B59ZO5w
+https://www.youtube.com/watch?v=DGPfCT5dDQE
+https://www.youtube.com/playlist?list=PLwSdIiqnDlf_lb5y1liQK2OW5daXYgKOe
